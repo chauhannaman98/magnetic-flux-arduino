@@ -7,4 +7,4 @@ Arduino code to measure magnetic flux using a hall sensor along with Arduino Uno
 
 ## Project schematics
 
-![Schematics](https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Magnetic-Field-Measurement-.gif)
+![Schematics](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Magnetic-Field-Measurement-.gif)
